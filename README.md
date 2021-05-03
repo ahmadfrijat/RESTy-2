@@ -1,4 +1,4 @@
-# Component Based UI : 
+# Props and State : 
 
 ### Author: Ahmad Al-frijat
 
