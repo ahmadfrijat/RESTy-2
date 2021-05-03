@@ -12,6 +12,7 @@ function Results (props){
         <ReactJson src= {props.response} />
         {/* <pre>{JSON.stringify(props.response, null, 2 )}</pre>; */}
         </p>
+        
       
     );
   }else return <section></section>;

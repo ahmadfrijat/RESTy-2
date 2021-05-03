@@ -8,39 +8,39 @@ exports[`<Form /> renders correctly 1`] = `
     <input
       name="url"
       onChange={[Function]}
-      placeholder="Type the URL  for the API"
+      placeholder="Enter the URL of the API"
       type="text"
     />
     <br />
     <label>
       GET
-      <input
-        name="GET"
-        required={true}
-        type="radio"
-      />
     </label>
+    <input
+      name="GET"
+      required={true}
+      type="radio"
+    />
     <label>
       POST
-      <input
-        name="POST"
-        type="radio"
-      />
     </label>
+    <input
+      name="POST"
+      type="radio"
+    />
     <label>
        PUT
-      <input
-        name="PUT"
-        type="radio"
-      />
     </label>
+    <input
+      name="PUT"
+      type="radio"
+    />
     <label>
       DELETE
-      <input
-        name="DELETE"
-        type="radio"
-      />
     </label>
+    <input
+      name="DELETE"
+      type="radio"
+    />
     <button
       type="submit"
     >
