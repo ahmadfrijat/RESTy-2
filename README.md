@@ -2,9 +2,9 @@
 
 ### Author: Ahmad Al-frijat
 
-- [Deployed Site](https://resty-ahmad.herokuapp.com/)
-- [PR Link](https://github.com/ahmadfrijat/RESTy-/pull/1)
-- [Repo Link](https://github.com/ahmadfrijat/RESTy-)
+- [Deployed Site](https://resty-2.herokuapp.com/)
+- [PR Link](https://github.com/ahmadfrijat/RESTy-2/pull/1)
+- [Repo Link](https://github.com/ahmadfrijat/RESTy-2)
 
 ## Documentation
 
