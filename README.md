@@ -1,4 +1,4 @@
-# Component Based UI : 
+# Component Composition : 
 
 ### Author: Ahmad Al-frijat
 
@@ -10,7 +10,7 @@
 
 ### UML Diagram
 
-![UML Lab26](public/lab27.PNG.png)
+![UML Lab26](public/lab28.PNG.png)
 
 
 #### How to initialize/run your application (where applicable)
