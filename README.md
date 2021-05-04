@@ -2,7 +2,7 @@
 
 ### Author: Ahmad Al-frijat
 
-- [Deployed Site](https://resty-2.herokuapp.com/)
+- [Deployed Site](https://ahmad-resty-2.netlify.app/)
 - [PR Link](https://github.com/ahmadfrijat/RESTy-2/pull/1)
 - [Repo Link](https://github.com/ahmadfrijat/RESTy-2)
 
