@@ -26,7 +26,7 @@ class Form extends React.Component{
        <form onSubmit={this.handleSubmit}>
          <input type='text' name='url' placeholder='Enter the URL of the API' onChange={this.callingAPI} /><br/>
          <label>GET</label>
-           <input type='radio' name='GET'  required/>
+           <input type='radio' name='GET' />
          <label>POST</label>
            <input type='radio' name='POST' />
          <label> PUT</label>

@@ -17,7 +17,6 @@ exports[`<Form /> renders correctly 1`] = `
     </label>
     <input
       name="GET"
-      required={true}
       type="radio"
     />
     <label>
