@@ -20,13 +20,13 @@ const history = (props) => {
     }
 
     if(get && get.length > 0){
-        const results = get.map((value, index) => {
+        const results = get.map((val, index) => {
             return (
                 <li className="li" key={index}>
 
-                    <span className={`method ${value.method}`}>{value.method}</span>
+                    <span className={`method ${val.method}`}>{val.method}</span>
 
-                    <span className="url">{value.url}</span>
+                    <span className="url">{val.url}</span>
 
 
                      <button onClick={handleClick}><NavLink id ={index} to='/'>Re-Run</NavLink></button>

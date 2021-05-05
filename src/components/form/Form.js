@@ -42,7 +42,7 @@ class Form extends React.Component {
             this.props.loading();
             this.props.setHistory(method, url, body);
           } catch (err) {
-            console.log(err);
+            // console.log(err);
           }
           break;
         case 'post':
