@@ -1,4 +1,4 @@
-# Props and State : 
+# Routing : 
 
 ### Author: Ahmad Al-frijat
 
@@ -10,7 +10,7 @@
 
 ### UML Diagram
 
-![UML Lab26](public/lab27.PNG.png)
+![UML Lab26](public/lab29.PNG.png)
 
 
 #### How to initialize/run your application (where applicable)
